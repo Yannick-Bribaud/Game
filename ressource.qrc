@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/sons">
+        <file>Would You Still Love Me - Brian Nhira (Official Video).mp3</file>
+        <file>Maroon 5 - Memories.mp3</file>
+    </qresource>
+    <qresource prefix="/Images">
+        <file>bulletImag.png</file>
+        <file>Player.jpg</file>
+        <file>Enemy.jpg</file>
+        <file>AppIMage.jpg</file>
+    </qresource>
+</RCC>
